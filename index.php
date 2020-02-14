@@ -47,5 +47,5 @@
 			echo $e . "\n";
 		}
 }
-	toSignACertificate();
+toCreateAndSignACertificate();
 	?>
